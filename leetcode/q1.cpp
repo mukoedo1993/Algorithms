@@ -54,3 +54,11 @@ public:
 
     }
 };
+
+
+/*
+Runtime: 36 ms, faster than 85.75% of C++ online submissions for Course Schedule.
+Memory Usage: 12.5 MB, less than 5.03% of C++ online submissions for Course Schedule.
+
+
+*/
