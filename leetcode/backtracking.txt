@@ -1,0 +1,135 @@
+	10	
+Regular Expression Matching	27.1%	Hard	
+17	
+Letter Combinations of a Phone Number	48.1%	Medium	
+22	
+Generate Parentheses	64.4%	Medium	
+37	
+Sudoku Solver	45.4%	Hard	
+39	
+Combination Sum	58.3%	Medium	
+40	
+Combination Sum II	49.5%	Medium	
+44	
+Wildcard Matching	25.1%	Hard	
+46	
+Permutations	65.4%	Medium	
+47	
+Permutations II	48.6%	Medium	
+51	
+N-Queens	48.4%	Hard	
+52	
+N-Queens II	59.2%	Hard	
+60	
+Permutation Sequence	39.0%	Hard	
+77	
+Combinations	56.3%	Medium	
+78	
+Subsets	63.9%	Medium	
+79	
+Word Search	36.3%	Medium	
+89	
+Gray Code	49.8%	Medium	
+90	
+Subsets II	48.1%	Medium	
+93	
+Restore IP Addresses	36.8%	Medium	
+126	
+Word Ladder II	23.1%	Hard	
+131	
+Palindrome Partitioning	49.4%	Medium	
+140	
+Word Break II	33.9%	Hard	
+211	
+Design Add and Search Words Data Structure	39.4%	Medium	
+212	
+Word Search II	36.1%	Hard	
+216	
+Combination Sum III	59.5%	Medium	
+254	
+Factor Combinations
+47.1%	Medium	
+267	
+Palindrome Permutation II
+37.0%	Medium	
+291	
+Word Pattern II
+43.9%	Hard	
+294	
+Flip Game II
+50.4%	Medium	
+306	
+Additive Number	29.5%	Medium	
+320	
+Generalized Abbreviation
+53.0%	Medium	
+351	
+Android Unlock Patterns
+49.1%	Medium	
+357	
+Count Numbers with Unique Digits	48.7%	Medium	
+401	
+Binary Watch	48.1%	Easy	
+411	
+Minimum Unique Word Abbreviation
+36.8%	Hard	
+425	
+Word Squares
+49.6%	Hard	
+526	
+Beautiful Arrangement	59.4%	Medium	
+691	
+Stickers to Spell Word	43.6%	Hard	
+784	
+Letter Case Permutation	65.8%	Medium	
+797	
+All Paths From Source to Target	78.3%	Medium	
+842	
+Split Array into Fibonacci Sequence	36.5%	Medium	
+980	
+Unique Paths III	77.0%	Hard	
+996	
+Number of Squareful Arrays	47.6%	Hard	
+1066	
+Campus Bikes II
+54.0%	Medium	
+1087	
+Brace Expansion
+63.0%	Medium	
+1088	
+Confusing Number II
+44.8%	Hard	
+1215	
+Stepping Numbers
+42.9%	Medium	
+1079	
+Letter Tile Possibilities	75.6%	Medium	
+1258	
+Synonymous Sentences
+67.4%	Medium	
+1286	
+Iterator for Combination	70.8%	Medium	
+1291	
+Sequential Digits	57.4%	Medium	
+1219	
+Path with Maximum Gold	65.5%	Medium	
+1239	
+Maximum Length of a Concatenated String with Unique Characters	48.9%	Medium	
+1240	
+Tiling a Rectangle with the Fewest Squares	51.8%	Hard	
+1307	
+Verbal Arithmetic Puzzle	37.5%	Hard	
+1415	
+The k-th Lexicographical String of All Happy Strings of Length n	70.0%	Medium	
+1467	
+Probability of a Two Boxes Having The Same Number of Distinct Balls	61.2%	Hard	
+1593	
+Split a String Into the Max Number of Unique Substrings	47.0%	Medium	
+1617	
+Count Subtrees With Max Distance Between Cities	62.9%	Hard	
+1655	
+Distribute Repeating Integers	41.2%	Hard	
+1641	
+Count Sorted Vowel Strings	76.4%	Medium	
+1659	
+Maximize Grid Happiness	32.7%	Hard	
