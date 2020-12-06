@@ -1,5 +1,6 @@
-	10	
+	10(OK)
 Regular Expression Matching	27.1%	Hard	
+
 17	
 Letter Combinations of a Phone Number	48.1%	Medium	
 22	
