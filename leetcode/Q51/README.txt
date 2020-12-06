@@ -15,3 +15,6 @@ n_queen(y,n,b,ans):
   put(x,y+b)
   n_queen(y+1,n,b,ans)
   remove(x,y,b)
+
+I personally prefer next_permutation, which is slower but easier.
+Solution.cpp is Huahua's solution.
