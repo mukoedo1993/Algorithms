@@ -1,5 +1,4 @@
 class Solution {//bfs: breadth-first search
-//author: huahua modified by:mukoedo1993
 public:
     vector<string> letterCombinations(string digits) {
         if(digits.empty())return vector<string>();
@@ -17,9 +16,9 @@ public:
       rslts={""};
       for(char digit:digits){//fix the digit at each time
          vector<string>tmp;// use tmp to collect strings
-          for(const string&str: rslts ){
-            for(char c:mp1[digit])  {
-                tmp.push_back(str+c);//update tmp with each string
+          for(const string&str: rslts ){//traverse each string of original rslts
+            for(char c:mp1[digit])  {//traverse each char of mapped chars
+                tmp.push_back(str+c);//update tmp with each string and mapped char
             }
             
           }
