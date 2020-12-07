@@ -1,9 +1,11 @@
 	10(huahua's soln)
 Regular Expression Matching	27.1%	Hard	
 
-17	
+17(huahua's soln)
 Letter Combinations of a Phone Number	48.1%	Medium	
-22	
+
+
+22 (my soln)(huahua's is much BETTER, however...)
 Generate Parentheses	64.4%	Medium	
 37	
 Sudoku Solver	45.4%	Hard	
