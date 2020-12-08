@@ -1,4 +1,7 @@
-	10(huahua's soln)
+first round: allowed to use non-backtracking method...<-----------(now)
+second round: all questions must be finished using backtracking method...
+
+10(huahua's soln)
 Regular Expression Matching	27.1%	Hard	
 
 17(huahua's soln)
