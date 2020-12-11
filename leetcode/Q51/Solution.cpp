@@ -1,3 +1,4 @@
+//Solve a n queen problem and print the result. In this case, n=7.
 #include<vector>
 #include<iostream>
 using namespace std;
