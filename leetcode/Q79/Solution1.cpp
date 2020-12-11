@@ -1,4 +1,4 @@
-author: mukoedo1993
+//Author: mukoedo1993
 class Solution {
 public:
     bool exist(vector<vector<char>>& board, string word) {
@@ -10,14 +10,19 @@ public:
         return false;
     }
     private:
+    bool flag;
     
  
    bool dfs( vector<vector<char>>& board, string& curr,int row, int col){
         if(curr.empty()){return true;}
          if(board[row][col]=='.')return false;
            
-        if(board[row][col]!=curr[0])return false;
-
+        if(board[row][col]!=curr[0])   
+        {
+            
+            return false;
+            
+        }
             else{
             char it=curr[0];
             curr.erase(curr.begin());
@@ -32,7 +37,7 @@ public:
             if(col<board[0].size()-1)
             {if( dfs(board,curr,row,col+1))return true;}
             //backtracking:
-            curr=string(1,it)+curr;
+            curr=it+curr;
             board[row][col]=it;
             return false;
             }
