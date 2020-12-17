@@ -12,6 +12,7 @@ e is size of preconditions, q is size of query.
 
 
 Solution 2:
+Solution2.cpp
 Union Find:
 A/B=2-> parents[A]={B,2}
         parents[B]={B,1.0}(Typo in the screenshot!)
