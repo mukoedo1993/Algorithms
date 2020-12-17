@@ -14,7 +14,7 @@ e is size of preconditions, q is size of query.
 Solution 2:
 Union Find:
 A/B=2-> parents[A]={B,2}
-        parents[B]={B,1.0}
+        parents[B]={B,1.0}(Typo in the screenshot!)
         
 B/C=3 -> parents[C]={B,1.0/3.0}
 
