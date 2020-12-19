@@ -1,2 +1,6 @@
 It might be large and uncontinuous in memory. You probably will get a result which is
 not cached.
+
+vector<vector<int>>
+For the pointer between vector<int> and vector<int>, the memory might not be continuous....
+So it will slow down the speed...
