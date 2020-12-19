@@ -18,3 +18,8 @@ Time complexity: O(n)
 Solution2.cpp
 Space... O(1)
 Time... O(n)
+
+
+.......................................
+It's a Fibonaci sequence....
+f(n)=f(n-1)+f(n-2)
