@@ -1,0 +1,4 @@
+1: For the case that one node has two parents:
+subcases:
+1: If both edge could create a loop, return the last one
+2: If only one edge could create a loop, return the one that could create the loop. 
