@@ -13,3 +13,4 @@ Motivation:
  Query: O(log(n))
  Update: O(log(n))
  
+ See the screenshot and cpp file for more details.
