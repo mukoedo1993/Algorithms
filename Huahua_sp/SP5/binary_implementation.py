@@ -8,4 +8,11 @@ def binary_search(l,r):
     else:
       l=m+1   #new range[m+1,r)
     return l # or not found
+  """
+  Time complexity: 
+  O(log(n))*O(f(m)+g(m))
+  Space complexity:
+  O(1)
+  """
+ 
       
