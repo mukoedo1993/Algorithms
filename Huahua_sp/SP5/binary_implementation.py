@@ -1,7 +1,7 @@
 
 def binary_search(l,r):
   while l<r:
-    m=l+(r-l)#2
+    m=l+(r-l)/2#2
     if(f(m)):return m
     if(g(m)):
       r=m     #return m#optional
