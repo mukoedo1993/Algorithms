@@ -1,0 +1,11 @@
+inorder(root):
+   inorder(root.left)
+   func(root.val)
+   inorder(root.right)
+   
+ Time complexity: O(n)perfect
+ 
+ O(n) worst case
+ 
+ Space complexity: O(logn) perfect
+ O(n) worst case
