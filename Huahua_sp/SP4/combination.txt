@@ -1,0 +1,17 @@
+d: depth s:start
+                  combination(d,s):
+        if d==n return func()
+      ...
+      
+      Time complexity: 
+ T(n)=T(n-1)+T(n-2)+...+T(1)
+ =O(2^n)
+ 
+ Space complexity:
+ O(n)
+ 
+ 
+ 
+ 
+   permutation  T(n)=T(n-1)*O(n)    (O(n!))
+   space complexity :O(n)
