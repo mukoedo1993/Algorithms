@@ -1,0 +1,5 @@
+binary_searh(a,l,r):    //a is the array, l is the leftmost element, r is the rightmost element  Notice that we are left-inclusive...
+  m=l+(r-l)/2
+  if(f(m)): binary_search(a,l,m)
+  esle: binary_search(a,m+1,r)
+  
