@@ -1,5 +1,8 @@
-空间复杂度 = 每次递归需要占用的新空间*递归的深度 √
+DP with memoization
+Time: number of subproblems TIMES exclusive time to solve each problem
+Space: max depth of call stack TIMES space used by each subproblem.
 
+.........................................................................................
 
 Equation	Time	Space	Examples
 T(n) = 2*T(n/2) + O(n)	O(nlogn)	O(logn)	quick_sort
